@@ -7,7 +7,7 @@ Building modern, user-centric web applications and CRM experience that are perfo
 
 ## About me
 
-I build modern frontends with **Vue.js**—turning requirements into crisp, reusable components that feel fast and intuitive. Day to day I work with **Vue.js, TypeScript, Vuetify, Spike Admin, and REST APIs** to ship new modules, refine existing features, fix bugs, and support deployments. I partner closely with backend engineers to keep integrations seamless and performance reliable.
+I build modern frontends with **Vue.js**—turning requirements into crisp, reusable components that feel fast and intuitive. Day to day I work with **Vue.js, TypeScript, Vuetify, Spike Admin, and REST APIs** to ship new modules, refine existing features, fix bugs, and support deployments. I partner closely with backend engineer to keep integrations seamless and performance reliable.
 
 Clean architecture and thoughtful UX are my baseline. I aim for **readable code, clear structure, and interfaces that help users move quickly without friction**. The goal is always the same: ship value, reduce complexity, and leave the codebase healthier than I found it. I also handle supporting UI work where needed (including HTML email and PDF outputs), keeping the focus on maintainability and consistency.
 
@@ -21,19 +21,18 @@ Fluent in **English** and **Bengali**, I value clear communication, collaborativ
 
 ## What I work with
 
-- **Frontend:** Vue.js, Nuxt, React, JavaScript, TypeScript, HTML5, CSS3, Vuetify, Spike Admin  
-- **Backend / APIs:** Laravel, REST APIs, Node.js (basics)  
+- **Frontend:** Vue.js, React, JavaScript, TypeScript, HTML5, CSS3, Vuetify, Spike Admin  
+- **Backend / APIs:** Laravel, REST APIs  
 - **Data / Storage:** MySQL  
-- **Architecture & Practices:** OOP, MVC, component-driven development, accessibility, basic testing  
-- **Design & UX:** Figma, Adobe Photoshop, Adobe Illustrator, responsive design, typography, branding  
-- **Other:** WordPress, performance tuning, email templates, PDF and print-ready assets
+- **Architecture & Practices:** OOP, MVC, component-driven development  
+- **Design & UX:** Adobe Photoshop, Adobe Illustrator, responsive design, typography, branding  
+- **Other:** WordPress, email templates, PDF and print-ready assets
 
 ---
 
 ## Highlights
 
-- Built and enhanced CRM modules with **Vue.js, TypeScript, Vuetify, and REST APIs**, collaborating closely with backend teams to ensure reliable, performant integrations.
-- Refactored legacy frontend components into **modular, reusable pieces**, simplifying maintenance and improving developer onboarding.
+- Built and enhanced CRM modules with **Vue.js, TypeScript, Vuetify, and REST APIs**, collaborating closely with backend engineer to ensure reliable, performant integrations.
 - Delivered **360+ freelance projects** across industries, aligning brand, usability, and technical constraints to ship production-ready assets and interfaces.
 - Designed and implemented a **healthcare chatbot prototype** as part of my Master’s research, exploring AI-assisted workflows and conversational UX.
 
@@ -54,7 +53,6 @@ Here are a few public projects on my GitHub:
 
 - 🔭 Focusing on **Vue.js, TypeScript, and design-driven frontend architecture**  
 - 🧪 Exploring **AI-assisted tooling** and better workflows for front-end development  
-- 🤝 Open to collaborating on **frontend-heavy products, CRM tools, and design-led web applications**
 
 ---
 
@@ -63,5 +61,3 @@ Here are a few public projects on my GitHub:
 - 🌐 Website: [https://artisanasif.com](https://artisanasif.com)  
 - 💼 LinkedIn: [linkedin.com/in/md-asifullah](https://www.linkedin.com/in/md-asifullah)  
 - 📧 Email: [artisan.asif@gmail.com](mailto:artisan.asif@gmail.com)
-
-If you’d like to talk about a project, collaboration, or role, feel free to reach out—I’m always happy to connect.
