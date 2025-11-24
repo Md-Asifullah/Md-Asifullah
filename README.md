@@ -21,8 +21,8 @@ Fluent in **English** and **Bengali**, I value clear communication, collaborativ
 
 ## What I work with
 
-- **Frontend:** Vue.js, React, JavaScript, TypeScript, HTML5, CSS3, Vuetify, Spike Admin  
-- **Backend / APIs:** Laravel, REST APIs  
+- **Frontend:** Vue.js, React, Next.js, JavaScript, TypeScript, HTML5, CSS3, Bootstrap, Vuetify, Spike Admin  
+- **Backend / APIs:** Laravel, PHP, REST APIs  
 - **Data / Storage:** MySQL  
 - **Architecture & Practices:** OOP, MVC, component-driven development  
 - **Design & UX:** Adobe Photoshop, Adobe Illustrator, responsive design, typography, branding  
