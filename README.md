@@ -32,7 +32,7 @@ Fluent in **English** and **Bengali**, I value clear communication, collaborativ
 
 ## Highlights
 
-- Built and enhanced CRM modules with **Vue.js, TypeScript, Vuetify, and REST APIs**, collaborating closely with backend engineer to ensure reliable, performant integrations.
+- Built and enhanced CRM, eCommerce, and CMS modules using Vue.js, React, Next.js, TypeScript, Vuetify, and REST APIs, collaborating closely with backend engineers to deliver reliable, performant integrations.
 - Delivered **360+ freelance projects** across industries, aligning brand, usability, and technical constraints to ship production-ready assets and interfaces.
 - Designed and implemented a **healthcare chatbot prototype** as part of my Master’s research, exploring AI-assisted workflows and conversational UX.
 
@@ -51,7 +51,7 @@ Here are a few public projects on my GitHub:
 
 ## Currently
 
-- 🔭 Focusing on **Vue.js, TypeScript, and design-driven frontend architecture**  
+- 🔭 Focusing on **Vue.js, React, Next.js, TypeScript, and design-driven frontend architecture**
 - 🧪 Exploring **AI-assisted tooling** and better workflows for front-end development  
 
 ---
