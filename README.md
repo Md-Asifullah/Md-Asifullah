@@ -1,7 +1,7 @@
 # Hi there, I'm Md Asifullah 👋
 
 **Software Engineer & Front-End Developer**  
-Building modern, user-centric web applications and CRM experience that are performant, accessible, and maintainable.
+Building modern, user-centric web applications, CRM systems, eCommerce platforms, and CMS experiences that are performant, accessible, and maintainable.
 
 ---
 
